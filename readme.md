@@ -1,7 +1,7 @@
 # Turing Machine table converter
 
 ## History and motivation
-In 1936, Alan Turing published his monumental paper showing that Hilbert's Entscheidungsproblem has no solution. This paper, along with Gödel's incompleteness theorem published five years earlier, are arguably the two most fundemental theorems about mathematics. Although Alonzo Church beat Turing to the solution, submitting his own version of the proof just 6 weeks before Turing, the novelty of Turing's paper made the paper worth publishing nonetheless. 
+In 1936, Alan Turing published his monumental paper proving that Hilbert's Entscheidungsproblem has no solution and simultaneously devising his ingenious Turing machine. This paper, along with Gödel's incompleteness theorem published five years earlier, are arguably the two most fundemental theorems about mathematics. Although Alonzo Church beat Turing to the solution, submitting his own version of the proof just 6 weeks before Turing, the novelty of Turing's paper made the paper worth publishing nonetheless. 
 
 In the course of his proof, Turing attributes to every Turing machine a unique "description number" which allows him to show the enumerability of computable numbers (an astonishing result on its own). This program allows the user to convert description numbers back into a readable machine table and vis-versa.
 
