@@ -18,7 +18,7 @@ Or
 3111322326311731132223222243117
 ````
 
-Note that a semi-colon (or a 7) must be added at the end of each instruction line, and that the number of spaces between each part of the instruction doesn't matter in the machine table. Blanks are represented usin "_".
+Note that a semi-colon (or a 7) must be added at the end of each instruction line, and that the number of spaces between each part of the instruction doesn't matter in the machine table. Blanks are represented using "_".
 
 To execute the program, run:
 ````
