@@ -24,4 +24,4 @@ To execute the program, run:
 ````
 > python3 converter.py (-r) -i inputfile.txt (-o outputfile.txt)
 ````
-The optional `(-r)` is to run the program in reverse order (that is to go from description number back to a machine table). The output file name/location is optional (the program will just create one in the working directory otherwise). However, the input file name must be passed as an argument. 
+The optional `(-r)` is to run the program in reverse (i.e. to go from description number back to a machine table). The output file name/location is optional (the program will just create one in the working directory). However, the input file name must be passed as an argument. 
